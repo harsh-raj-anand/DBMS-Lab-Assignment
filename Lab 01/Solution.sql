@@ -2,7 +2,7 @@
 
 -- 3. Create a table Student with following columns:
 CREATE TABLE Student (
-    RollNo INT PRIMARY KEY,
+    RollNo INT,
     Name VARCHAR2(50),
     Dept VARCHAR2(20),
     Age INT,
@@ -65,4 +65,5 @@ DELETE FROM Student WHERE RollNo=105;
 DELETE FROM Student;
 
 -- Save the changes to the database
+
 COMMIT;
