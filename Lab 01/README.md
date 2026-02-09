@@ -60,9 +60,9 @@ Example:
 
 ```sql
 CREATE TABLE Student (
-  RollNo INT PRIMARY KEY,
-  Name VARCHAR2(50),
-  Dept VARCHAR2(20),
-  Age INT,
-  MobileNo VARCHAR2(15)
+    RollNo INT,
+    Name VARCHAR2(50),
+    Dept VARCHAR2(20),
+    Age INT,
+    Phone VARCHAR2(15)
 );
