@@ -26,13 +26,13 @@ To understand **Entity–Relationship (ER) modeling**, convert it into **relatio
 
 ## ER Diagram
 
-![ER Diagram](ER Diagram.png)
+![ER Diagram]("ER Diagram.png")
 
 ---
 
 ## Relational Schema
 
-![Relational Table](Relational Table.png)
+![Relational Table]("Relational Table.png")
 
 ---
 
