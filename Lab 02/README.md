@@ -26,13 +26,13 @@ To understand **Entity–Relationship (ER) modeling**, convert it into **relatio
 
 ## ER Diagram
 
-![ER Diagram]("ER Diagram.png")
+![ER Diagram](ER_Diagram.png)
 
 ---
 
 ## Relational Schema
 
-![Relational Table]("Relational Table.png")
+![Relational Table](Relational_Table.png)
 
 ---
 
@@ -207,8 +207,8 @@ CREATE TABLE Enrollment (
 
 - Lab 02 Questions.pdf
 - Lab 02 Solution.sql
-- ER Diagram.png
-- Relational Table.png
+- ER_Diagram.png
+- Relational_Table.png
 - ER Diagram.drawio
 - Relational Table.drawio
 
