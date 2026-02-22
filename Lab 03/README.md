@@ -126,5 +126,5 @@ Each department contains:
 4. Apply formatting (optional)
 
 ```sql
-@format.sql
+@Format.sql
 ```
