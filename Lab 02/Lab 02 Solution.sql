@@ -48,3 +48,6 @@ CREATE TABLE Enrollment (
     FOREIGN KEY (StudentID) REFERENCES Student(StudentID),
     FOREIGN KEY (CourseID) REFERENCES Course(CourseID)
 );
+
+
+COMMIT;
