@@ -324,6 +324,9 @@ INSERT INTO Enrollment VALUES ('EN709','ST709','CU704','5th','A');
 INSERT INTO Enrollment VALUES ('EN710','ST710','CU705','5th','B+');
 
 
+COMMIT;
+
+
 -- Checking Data
 
 SELECT * FROM Department;
@@ -331,3 +334,4 @@ SELECT * FROM Student;
 SELECT * FROM Faculty;
 SELECT * FROM Course;
 SELECT * FROM Enrollment;
+
