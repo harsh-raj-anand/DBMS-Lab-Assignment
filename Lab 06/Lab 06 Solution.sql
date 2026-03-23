@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+-- Lab 06 Solution
+
+>>>>>>> a348198 (first commit)
 -- Part A: Basic Aggregate Queries
 
 -- 1. Display the total number of students in the Student table.

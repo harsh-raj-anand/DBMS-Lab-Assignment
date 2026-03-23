@@ -212,7 +212,11 @@ CREATE TABLE Enrollment (
 - ER Diagram.drawio
 - Relational Table.drawio
 
+<<<<<<< HEAD
 ### ---
 
 
 
+=======
+### ---
+>>>>>>> a348198 (first commit)

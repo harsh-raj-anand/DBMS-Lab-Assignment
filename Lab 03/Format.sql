@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SET LINESIZE 150;
 SET PAGESIZE 250;
 SET WRAP OFF;
@@ -20,4 +21,28 @@ SELECT * FROM Department;
 SELECT * FROM Student;
 SELECT * FROM Faculty;
 SELECT * FROM Course;
+=======
+SET LINESIZE 150;
+SET PAGESIZE 250;
+SET WRAP OFF;
+COLUMN DepartmentID FORMAT A15;
+COLUMN DepartmentName FORMAT A20;
+COLUMN OfficeLocation FORMAT A20;
+COLUMN StudentID FORMAT A15;
+COLUMN Name FORMAT A20;
+COLUMN FacultyID FORMAT A15;
+COLUMN Designation FORMAT A15;
+COLUMN CourseID FORMAT A15;
+COLUMN EnrollmentID FORMAT A15;
+COLUMN Semester FORMAT A10;
+COLUMN Grade FORMAT A5;
+
+
+-- Show All Tables
+
+SELECT * FROM Department;
+SELECT * FROM Student;
+SELECT * FROM Faculty;
+SELECT * FROM Course;
+>>>>>>> a348198 (first commit)
 SELECT * FROM Enrollment;

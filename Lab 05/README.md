@@ -178,6 +178,18 @@ After completing this lab you will understand:
 
 ---
 
+<<<<<<< HEAD
+=======
+### 📂 Project Structure
+
+Lab 05/
+ ├── Lab 02/Lab 02 Solution.sql     # Database schema
+ ├── Lab 05 Solution.sql    # SQL JOIN queries
+ └── README.md       # Project documentation
+
+---
+
+>>>>>>> a348198 (first commit)
 ### 🚀 How to Run
 
 1. Open Oracle SQL*Plus or Oracle SQL Developer
@@ -198,4 +210,8 @@ JOIN operations are fundamental in relational databases because real-world data 
 
 Understanding INNER JOIN and relational keys allows us to reconstruct meaningful information from normalized database structures.
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> a348198 (first commit)
