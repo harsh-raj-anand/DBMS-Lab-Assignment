@@ -20,14 +20,4 @@ SELECT * FROM Department;
 SELECT * FROM Student;
 SELECT * FROM Faculty;
 SELECT * FROM Course;
-
-
-
--- Show All Tables
-
-SELECT * FROM Department;
-SELECT * FROM Student;
-SELECT * FROM Faculty;
-SELECT * FROM Course;
->>>>>>> a348198 (first commit)
 SELECT * FROM Enrollment;
