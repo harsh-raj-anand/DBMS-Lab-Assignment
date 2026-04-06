@@ -331,3 +331,5 @@ SELECT * FROM Student;
 SELECT * FROM Faculty;
 SELECT * FROM Course;
 SELECT * FROM Enrollment;
+
+COMMIT;
